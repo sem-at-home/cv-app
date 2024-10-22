@@ -1,8 +1,8 @@
 {
-  "name": "react-app",
-  "private": true,
+  "name": "cv-app",
   "version": "0.0.0",
   "type": "module",
+  "author": "Sem van Velden <vanveldensem@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
